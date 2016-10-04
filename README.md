@@ -2,7 +2,7 @@
 1. Binary Tree:  
    Binary tree is a tree data structure in which each node has at most two children, which are referred to as the left child and the        right child.
 
-2. Caesar cipher:  
+2. CaesarEncryption:  
    Caesar cipher, also known as Caesar's cipher, the shift cipher, Caesar's code or Caesar shift, is one of the simplest and most widely    known encryption techniques. It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some      fixed number of positions down the alphabet. For example, with a left shift of 3, D would be replaced by A, E would become B, and so    on. The method is named after Julius Caesar, who used it in his private correspondence.
 
 3. Euler's Function:  
@@ -11,10 +11,11 @@
 4. Huffman Code:  
    Huffman code is a particular type of optimal prefix code that is commonly used for lossless data compression. The process of finding      and/or using such a code proceeds by means of Huffman coding, an algorithm developed by David A. Huffman.
 
-5. Knuth–Morris–Pratt substring searching algorithm
+5. Knuth–Morris–Pratt:  
+   A simple Knuth–Morris–Pratt substring searching algorithm.
 
 6. List:  
-   List or sequence is an abstract data type that represents an ordered sequence of values, where the same value may occur more than once.    An instance of a list is a computer representation of the mathematical concept of a finite sequence; the (potentially) infinite analog    of a list is a stream.
+   List or sequence is an abstract data type that represents an ordered sequence of values, where the same value may occur more than        once.    An instance of a list is a computer representation of the mathematical concept of a finite sequence; the (potentially)          infinite analog    of a list is a stream.
 
 7. PassBrute:  
    Simple bruteforce example.
