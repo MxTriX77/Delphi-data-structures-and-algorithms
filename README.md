@@ -1,12 +1,12 @@
 ﻿# Delphi data structures and algorithms
-1. Binary Tree:  
+1. Base64EncodeDecode:  
+   A simple implementation of Base64 encoding.
+   
+2. Binary Tree:  
    Binary tree is a tree data structure in which each node has at most two children, which are referred to as the left child and the        right child.
 
-2. CaesarEncryption:  
+3. CaesarEncryption:  
    Caesar cipher, also known as Caesar's cipher, the shift cipher, Caesar's code or Caesar shift, is one of the simplest and most widely    known encryption techniques. It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some      fixed number of positions down the alphabet. For example, with a left shift of 3, D would be replaced by A, E would become B, and so    on. The method is named after Julius Caesar, who used it in his private correspondence.
-   
-3. Base64EncodeDecode:  
-   A simple implementation of Base64 encoding.
 
 4. Euler's Function:  
    In number theory, Euler's totient function counts the positive integers up to a given integer n that are relatively prime to n.
