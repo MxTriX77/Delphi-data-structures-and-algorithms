@@ -18,10 +18,10 @@
    A simple Knuth–Morris–Pratt substring searching algorithm.
 
 7. List:  
-   List or sequence is an abstract data type that represents an ordered sequence of values, where the same value may occur more than        once.    An instance of a list is a computer representation of the mathematical concept of a finite sequence; the (potentially)          infinite analog    of a list is a stream.
+   List or sequence is an abstract data type that represents an ordered sequence of values, where the same value may occur more than        once. An instance of a list is a computer representation of the mathematical concept of a finite sequence; the (potentially)            infinite analog of a list is a stream.
 
 8. PassBrute:  
-   Simple bruteforce example.
+   A simple password file generator using bruteforce.
 
 9. Pyramid (binary heap):  
    A binary heap is defined as a binary tree with two additional constraints:
